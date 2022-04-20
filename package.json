@@ -1,0 +1,22 @@
+{
+  "name": "twitter_project",
+  "version": "1.0.0",
+  "description": "Practice project for launhcx",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosSilvaG/twitter_project.git"
+  },
+  "author": "Marcos Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosSilvaG/twitter_project/issues"
+  },
+  "homepage": "https://github.com/MarcosSilvaG/twitter_project#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
