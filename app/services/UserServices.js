@@ -8,6 +8,7 @@ class UserService {
     }
 
     static getInfo(user){
+        //This requirement can also be solved by returning an explicit list.->return  [user.id, id.username, user.name, user.bio]
         return Object.values(user)
     }
 }
